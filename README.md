@@ -11,7 +11,7 @@ Jeux: Course de voitures, de 1-2 personnes (en local) et IA
 Settings avancé:
 ![image](https://user-images.githubusercontent.com/129319404/229238676-0ca73f2c-9e49-4c95-be52-13e57751c057.png)
 
-Jouer avec vos amis ou contre un ia très performante:
+Jouer avec vos amis ou contre une ia très performante:
 ![image](https://user-images.githubusercontent.com/129319404/229239060-a6b05f67-7b0e-449c-aa12-fca8d05ce557.png)
 
 passer dans chaque anneau qui serviront de check point pour valider votre tour et de point de respawn si votre véhicule est immobilisé.
